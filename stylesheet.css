@@ -1,0 +1,12 @@
+body {
+    background-image: url(clean.jpg);
+}
+.box{
+    border: double;
+}
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap: 10px;
+    margin-top: 20px;
+}
